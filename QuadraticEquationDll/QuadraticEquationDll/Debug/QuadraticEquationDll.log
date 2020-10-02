@@ -1,0 +1,6 @@
+﻿  QuadraticEquationLib.cpp
+C:\Users\Дмитрий\source\repos\QuadraticEquationDll\QuadraticEquationDll\QuadraticEquationLib.cpp(5,39): warning C4273: discriminant: несовместимое связывание dll
+C:\Users\Дмитрий\source\repos\QuadraticEquationDll\QuadraticEquationDll\QuadraticEquationLib.h(9,24): message : см. предыдущее определение "discriminant"
+C:\Users\Дмитрий\source\repos\QuadraticEquationDll\QuadraticEquationDll\QuadraticEquationLib.cpp(9,48): warning C4273: quadraticEquation: несовместимое связывание dll
+C:\Users\Дмитрий\source\repos\QuadraticEquationDll\QuadraticEquationDll\QuadraticEquationLib.h(10,28): message : см. предыдущее определение "quadraticEquation"
+  QuadraticEquationDll.vcxproj -> C:\Users\Дмитрий\source\repos\QuadraticEquationDll\Debug\QuadraticEquationDll.dll
